@@ -124,7 +124,6 @@ whois networkwalks.com
 ```
 ![WHOIS output](Footprinting%20and%20Reconnaissance/task1_whois/task1_whois_screenshot.png)
 
-Raw output: [task1_whois_output.txt](Footprinting%20and%20Reconnaissance/task1_whois/task1_whois_output.txt)
 
 ### WhatWeb
 ```
